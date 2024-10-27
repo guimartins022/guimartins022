@@ -14,6 +14,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimartins022&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Outras formas de me encontrar:
