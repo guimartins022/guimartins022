@@ -14,6 +14,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div></br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimartins022layout=compact&theme=dark)
+
 ### Outras formas de me encontrar:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimartinsoliveira022@gmail.com)
