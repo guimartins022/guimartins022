@@ -1,5 +1,6 @@
 
 ### Olá, me chamo Guilherme Oliveira 👋
+Sou desenvolvedor em formação, focado em construir uma base sólida em programação por meio de estudos contínuos e desenvolvimento de projetos práticos. Utilizo este repositório para registrar minha evolução e aplicar conceitos aprendidos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-de-oliveira-3a005b262/)
 
